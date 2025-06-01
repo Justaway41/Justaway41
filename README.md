@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🧠 About Me :<br><br>🛠️ I'm building [Synapse Technologies](https://www.synapse.com.np) with an amazing team of friends — we're focused on crafting digital solutions that make a real difference.<br>🌱 I’m currently learning advanced system design, Go concurrency patterns, and modern DevOps practices.  <br>💬 Ask me about building production-ready systems using Go, Next.js, PostgreSQL, Redis, and real-time data workflows.  <br>⚡ Fun fact: I built an Intern Manager tool during my first internship, and it sparked my passion for building tools that solve real problems.
+ <br>🌱 I’m currently learning advanced system design, Go concurrency patterns, and modern DevOps practices.  <br>💬 Ask me about building production-ready systems using Go, Next.js, PostgreSQL, Redis, and real-time data workflows.  <br>⚡ Fun fact: I built an Intern Manager tool during my first internship, and it sparked my passion for building tools that solve real problems.
 
 
 ## 🌐 Socials:
